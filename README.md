@@ -22,5 +22,7 @@ To test my methods and game actions, I started with hard checking the methods ju
 
 I think overall the project was really difficult trying to figure out how java wanted to work with bits, but I think I overshot the difficulty of the entire thing. Most of the shell was things I have done many times, it was just the learning curve and research of the bitwise functions that I had to be clear on before I could succeed. That being said, kinging was something I could just never figure out. Playing within the bounds of the rules is difficult, and first I had to make sure the pieces couldn't move backwards which was difficult. Also I don't know if its even possible to represent a bit as a special king without the players just being able to move any piece like a king. 
 
+I did notice that I was overprepared for what I was able to complete. I was able to complete all that I did without many of my utility class methods. Now that I look back at them, I probably had the same issues with converting the variables. I will still submit them, but I didn't use most of them.
+
 Very fun project however! Very challenging but also informative.
 
